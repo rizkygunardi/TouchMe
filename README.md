@@ -24,4 +24,12 @@ Manfaat :
 Testing pada aplikasi TouchMe menggunakan tools Katalon untuk melakukan testing pada halaman signup dan login dengan menggunakan testcase positif dan testcase negatif
 
 Berikut report testing yang sudah saya lakukan.
+
+TestCase Positif
+https://docs.google.com/document/d/1i0VUOc927V6dLsd7Z5kmvLAkN4r8X4_0BNZv5hUKFx4/edit?usp=sharing
+
+TestCase Negatif
+https://docs.google.com/document/d/1-g95FjvN3EV7_VfBEH7_LFLNh_9gi3lAPFrE2rcEdow/edit?usp=sharing
+
+Automation Katalon
 [Report TouchMe.pdf](https://github.com/rizkygunardi/TouchMe/files/11171309/Report.TouchMe.pdf)
