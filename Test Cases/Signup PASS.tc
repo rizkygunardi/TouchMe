@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan Tesing pada Field Email, Password, Reapet Password dan tombol Signup dengan inputan data yang valid.</description>
+   <name>Signup PASS</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>465b0708-fdaa-4143-983a-8b6405e00f95</testCaseGuid>
+</TestCaseEntity>

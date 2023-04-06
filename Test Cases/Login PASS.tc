@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan Tesing pada Field Email, Password dan tombol Login dengan inputan data yang valid.</description>
+   <name>Login PASS</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ce4dedf9-eb63-49dd-98e9-b422f6b1575f</testCaseGuid>
+</TestCaseEntity>
